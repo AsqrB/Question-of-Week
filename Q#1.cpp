@@ -2,8 +2,6 @@
 #include<vector>
 using namespace std;
 
-
-
 int main() {
     
     int dec;
@@ -14,14 +12,11 @@ int main() {
         int bin = dec%2;
         result.push_back(bin);
         dec=dec/2;
-        
-    }
+        }
     result.push_back(1);
     for(int i =result.size()-1;i>=0;i--)
     {
         cout<<result[i];
     }
-    
-    
     return 0;
 }
