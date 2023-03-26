@@ -2,5 +2,12 @@
 
 Q: Ishaan recently learned how to convert a decimal number into binary and now he wants to create a program to do so. Help him to sove this problem.
 
-
 Fun Fact: Ishaan is unaware of ChatGPT
+
++------------------------+            +------------------------+
+|  SAMPLE INPUT 1:       |            |  SAMPLE INPUT 2:       |
+|  123                   |            |  69                    |
+|  --------------------  |            |  --------------------  |
+|  SAMPLE OUTPUT 1:      |            |  SAMPLE OUTPUT 2:      |
+|  1111011               |            |  1000101               |
++------------------------+            +------------------------+
