@@ -1,0 +1,6 @@
+# Zero One Ka Game
+
+Q: Ishaan recently learned how to convert a decimal number into binary and now he wants to create a program to do so. Help him to sove this problem.
+
+
+Fun Fact: Ishaan is unaware of ChatGPT
