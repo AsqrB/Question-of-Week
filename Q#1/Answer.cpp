@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     
     int dec;
-    cout<<"Enter Decimal number";
+    cout<<"Enter Decimal number: ";
     cin>>dec;
     vector<int> result;
     while(dec!=1){
