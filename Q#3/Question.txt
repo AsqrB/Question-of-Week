@@ -1,0 +1,26 @@
+# Naughty Ishaan
+
+Q: Ishaan has got an offer from Google. Now he has N days to join company and also he has N girlfriends whom he have to meet exactly once.
+Help Ishaan find all the ways in which he can meet his girlfriends
+
+Fun Fact: Ishaan's GFs are unaware of one another
+
++------------------------+            +------------------------+
+|  SAMPLE INPUT 1:       |            |  SAMPLE INPUT 2:       |
+|  2                     |            |  3                     |
+|  --------------------  |            |  --------------------  |
+|  SAMPLE OUTPUT 1:      |            |  SAMPLE OUTPUT 2:      |
+|  2                     |            |  6                     |
+|  --------------------  |            |  --------------------  |
+|  EXPLAINATION 1:       |            |  EXPAINATION 2:        |
+|  Two ways are:         |            |  Six ways are:         |
++------------------------+            +------------------------+
+|    DAY 1 |   DAY2      |            |  DAY 1 | DAY 2 | DAY 3 |
+|    GF1   |   GF2       |            |  GF1   | GF2   |  GF3  |
+|    GF2   |   GF1       |            |  GF1   | GF3   |  GF2  |
++------------------------+            |  GF2   | GF1   |  GF3  |
+                                      |  GF2   | GF3   |  GF1  |
+                                      |  GF3   | GF2   |  GF1  |
+                                      |  GF3   | GF1   |  GF2  |
+                                      +------------------------+
+                                      
