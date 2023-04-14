@@ -1,6 +1,7 @@
 # Compressed String
 
-Q: Ishaan knows how to compress a file and now he wonders to compress strings. You are given a string  S of length N. Your task is to compress string to shortest possible length by replacing repeated characters with numbers.
+Q: Ishaan knows how to compress a file and now he wonders to compress strings. You are given a string  S of length N.
+    Your task is to compress string to shortest possible length by replacing repeated characters with numbers.
 
 Fun Fact: Ishaan is still unaware of ChatGPT
 
