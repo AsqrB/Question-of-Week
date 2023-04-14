@@ -2,7 +2,7 @@
 
 Q: Lily loves to solve puzzles. One day, she was given a challenge to determine 
    how many numbers have no repeating digits in a given range of integers.
-   She started analyzing the problem and ccame up with a plan to create a computer program to overcome this challenge.
+   She started analyzing the problem and came up with a plan to create a computer program to overcome this challenge.
    Help Lily with the task.
 
 Fun fact: Lily is one of Ishaan's Girlfriend
