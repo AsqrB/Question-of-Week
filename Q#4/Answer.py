@@ -17,5 +17,5 @@ for i in range(lB,uB+1):
     if(fun(str(i))):  #if digits doesnot repeat
         count + = 1   #Incrementing value of count
         
-#Printing number of integers in given range without digit Repetition
+#Printing number of integers in range without digit Repetition
 print(count)
