@@ -1,0 +1,18 @@
+#Word Game
+
+Q: Lily and Ishaan are playing a word game. Lily challenges Ishaan to find out if two words are anagrams of each other or not.
+   Ishaan decides to use create a program to solve Lily's challenge.
+   If the two words are anagrams of each other, program should print "Yes", otherwise it should print "No". 
+   Can you help Ishaan write the Python code to solve Lily's challenge?
+
+NOTE: An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+
++------------------------+            +------------------------+              +------------------------+
+|  SAMPLE INPUT 1:       |            |  SAMPLE INPUT 2:       |              |  SAMPLE INPUT 3:       |
+|  listen                |            |  Tom Marvolo Riddle    |              |  Hello                 |
+|  silent                |            |  I am Lord Voldomort   |              |  World                 |
+|  --------------------  |            |  --------------------  |              |  --------------------  |
+|  SAMPLE OUTPUT 1:      |            |  SAMPLE OUTPUT 2:      |              |  SAMPLE OUTPUT 3:      |
+|  Yes                   |            |  Yes                   |              |  No                    |
++------------------------+            +------------------------+              +------------------------+ 
