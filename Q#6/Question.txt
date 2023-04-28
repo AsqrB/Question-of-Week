@@ -1,0 +1,21 @@
+# Digit Checker
+
+Q: Lily is given a string S1.
+   She needs to check whether a string contains only digits or not.
+   If the string contains only digits then the string operation returns YES,
+   otherwise, returns NO. Help Lily create the program to do so.
+
+The function isDigit() accepts the parameters string s1. Complete the function isDigit() that returns the check_digit in boolean format. 
+Print whether YES or NO based on the boolean values.
+
+Explanation : If the string s1 is 123456 then string consists of only digits and hence the operation returns true. 
+              And if the string-checking operation returns true then print YES, otherwise, print NO.
+
+
++---------------------------------------------+               +---------------------------------------------+
+|  SAMPLE INPUT 1:                            |               |  SAMPLE INPUT 2:                            |
+|  s1 = 343r534223                            |               |  s1 = 878976543456                          |
++---------------------------------------------+               +---------------------------------------------+
+|  SAMPLE OUTPUT 1:                           |               |  SAMPLE OUTPUT 2:                           |
+|  check_string= NO                           |               |  check_string= YES                          |
++---------------------------------------------+               +---------------------------------------------+
